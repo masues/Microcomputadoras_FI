@@ -1,0 +1,10 @@
+#Archivos propios del ensamblado
+*.HEX
+*.O
+*.cof
+*.err
+*.lst
+*.map
+*.mcs
+#Archivos de la documentación
+*.docx
